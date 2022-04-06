@@ -1,4 +1,17 @@
 {
+  "name": "nextjs-github-pages-template",
+  "description": "This example shows the most basic idea behind Next. We have 2 pages: `pages/index.js` and `pages/about.js`. The former responds to `/` requests and the latter to `/about`. Using `next/link` you can add hyperlinks between them with universal routing capabilities.",
+  "version": "1.0.0",
+  "main": ".babelrc.js",
+  "keywords": [
+    "next",
+    "nextjs",
+    "static",
+    "github pages",
+    "gh-pages"
+  ],
+  "author": "E.M. Greeff <emgreeff@datadrivendashboards.com>",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "next",
